@@ -34,3 +34,5 @@ Existing user authorization persists across workflow phases. If one request alre
 In Codex chat use `$openspec-*` skills. In this repo's terminal run the pinned CLI with `npm exec -- openspec` after `npm ci`. The `/opsx:*` examples in upstream docs are for assistants with slash commands.
 
 Match completion claims to evidence. `openspec validate` checks artifact structure; `openspec doctor` checks its reported OpenSpec diagnostics. Neither proves implementation. A checked task box is status metadata. Tests and observed runtime behavior support only what they actually exercise. Do not claim a game feature works from a proposal, spec, plan, or checklist alone.
+
+Match evidence to the claim and change type. For implemented behavior defined by requirements or scenarios, verify the behavior actually claimed. For `skip_specs: true`, tooling, documentation, refactor, or exploratory work, use the task's stated acceptance condition and directly observable artifacts or command output instead. Do not invent behavioral requirements or tests solely for traceability.
