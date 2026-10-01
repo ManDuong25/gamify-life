@@ -2,6 +2,8 @@
 
 Ý tưởng game giúp người bận rộn chọn một hành động có ý nghĩa, vừa sức mỗi ngày và khám phá một kỹ năng do chính họ chọn. Dự án đang ở giai đoạn khám phá/tiền sản xuất; chưa có bản game chơi được.
 
+**Đang chờ chủ sản phẩm duyệt:** [OpenSpec change cho prototype vòng chơi](openspec/changes/prototype-gentle-mission-loop/proposal.md) và [kế hoạch triển khai, kiểm chứng](docs/superpowers/plans/2026-10-01-gentle-mission-prototype.md). Chưa triển khai prototype; kết quả playtest mới quyết định có làm vertical slice hay không.
+
 ## Bắt đầu từ đâu
 
 - [Tóm tắt sản phẩm công khai](docs/PRODUCT_BRIEF.md): hướng sản phẩm và các quyết định còn mở.

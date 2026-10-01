@@ -15,6 +15,8 @@ Người chơi đầu tiên có ít thời gian, ít năng lượng nhưng muố
 - Phản hồi game giúp thấy tiến trình mà không phạt ngày bỏ lỡ, miệt thị cân nặng hay xem chỉ số hoạt động là giá trị con người.
 - Đây là game hỗ trợ tự định hướng, không phải sản phẩm chẩn đoán hoặc điều trị.
 
+Chủ sản phẩm đã chọn **hành trình hồi phục và khám phá** làm hướng cảm xúc cho prototype đầu. Cách thể hiện và cảm giác chơi thực tế vẫn phải được kiểm tra bằng playtest; [bản đề xuất prototype](../openspec/changes/prototype-gentle-mission-loop/proposal.md) đang chờ duyệt trước khi triển khai.
+
 ## Cần kiểm chứng
 
 Vòng chơi cụ thể, mỹ thuật, cơ chế tiến trình, nhịp đổi kỹ năng, giới hạn AI và nền tảng web/mobile còn mở. Prototype đầu tiên cần thử một ngày bận và ít sức, một hạn chót có thật cạnh tranh sự chú ý, và lúc người chơi đổi nhiệm vụ AI đã đề xuất. Playtest đánh giá riêng hành động có ích ngoài đời và trải nghiệm chơi game.
