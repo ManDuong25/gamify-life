@@ -1,0 +1,22 @@
+{
+  "name": "gamify-life",
+  "version": "0.0.0",
+  "private": true,
+  "description": "AI-assisted life game in pre-production",
+  "scripts": {
+    "spec:doctor": "openspec doctor",
+    "spec:list": "openspec list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManDuong25/gamify-life.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ManDuong25/gamify-life/issues"
+  },
+  "homepage": "https://github.com/ManDuong25/gamify-life#readme",
+  "devDependencies": {
+    "@fission-ai/openspec": "1.14.0"
+  }
+}

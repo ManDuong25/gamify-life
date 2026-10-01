@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+
+# The full research notes contain personal context and a private ChatGPT link.
+# Publish only a reviewed, public-safe product brief.
+research/
